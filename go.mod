@@ -1,3 +1,3 @@
-module github.com/attakhalighi/attagreetings
+module github.com/attakhalighi/greetings
 
 go 1.23.4
